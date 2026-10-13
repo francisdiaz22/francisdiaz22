@@ -54,6 +54,14 @@ prototypes into reliable, measurable systems that can operate in production.
 
 ---
 
+## 🔒 Private Projects
+
+| Project | Engineering impact |
+| --- | --- |
+| **Quantitative Draw Analysis** | Building a data-driven research tool for exploring historical number-draw data with statistical analysis, probability models, and simulations. The work emphasizes reproducible data pipelines and communicating uncertainty; it is an analytical project, not a promise of predicting random outcomes. |
+
+---
+
 ## 📈 Public GitHub Activity
 
 <p align="center">
